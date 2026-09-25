@@ -9,8 +9,8 @@
 
 <body>
 <header>
-    <h1>Sammor Group Official Website</h1>
-    <p>The Best Company In The City</p>
+    <h1></h1>
+    <p></p>
 </header>
 
 <nav>
@@ -19,7 +19,7 @@
     <a href="#">Company Hierarchy</a>
     <a href="#">Service</a>
     <a href="#">Job Opportunities</a>
-    <a href="#">Group Story</a>
+    <a href="#">Company Story</a>
 </nav>
 
 <main>
